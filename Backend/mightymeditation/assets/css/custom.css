@@ -1,0 +1,11 @@
+.splash_preview{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    border: 4px solid black;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}   

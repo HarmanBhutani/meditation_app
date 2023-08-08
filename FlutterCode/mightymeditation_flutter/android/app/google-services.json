@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388915232223",
+    "project_id": "mighty-meditation",
+    "storage_bucket": "mighty-meditation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388915232223:android:4e10f272f003b4b50e186a",
+        "android_client_info": {
+          "package_name": "com.mighty.meditation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388915232223-d2flo1qm56qvm2a6llo54ilpkdl7gmad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrm3UBKshnhrcAB1iKvF8ZM81uvhjv8yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388915232223-d2flo1qm56qvm2a6llo54ilpkdl7gmad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
